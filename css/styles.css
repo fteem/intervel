@@ -124,3 +124,8 @@ button.full-screen:hover {opacity: 1;}
 #arrow_left {
 	right:95px;
 }
+
+.about-text {
+  color: #fff;
+  font-size: 18px;
+}
